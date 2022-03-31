@@ -14,7 +14,7 @@ Este é um pequeno projeto de uma Relógio!!
 
 ### Links
 
-- Solution URL: [Solution here](https://ingridssilveira.github.io/clock/)
+- Solution URL: [Solution here](https://ingridssilveira.github.io/Clock/)
 
 ## Author
 
